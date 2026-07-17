@@ -8,7 +8,7 @@ I picked up coding through The Odin Project and freeCodeCamp a few years back. N
  
 ### What I'm building
  
-Right now: a personal site at [richardkern.nz](https://richardkern.nz) and a website rebuild for Westgate Baptist Church in Auckland, where I volunteer as tech lead. Both run on Next.js with Payload CMS v3, PostgreSQL, Tailwind 4, and shadcn/ui, deployed to a self-hosted VPS via Coolify.
+Right now: a personal site at [richardkern.nz](https://richardkern.nz) and a website rebuild for Westgate Baptist Church in Auckland, where I volunteer as tech lead. Both run on Next.js with Payload CMS v3, PostgreSQL, and Tailwind 4, deployed to a self-hosted VPS via Coolify.
  
 ---
  
